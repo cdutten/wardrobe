@@ -10,7 +10,8 @@
 |                      | Formal Jeans        | ?       | 2      |
 |                      | Slim formal Belt    | 0       | 1      |
 | Footwear             | Chelsea boots       | 1       | 1      |
-|                      | Low shoes           | 0       | 1      | 
+|                      | Low shoes           | 0       | 1      |
+|                      | White Sneakers      | 1       | 1      |
 | Outdoor/winter cloth | Fake Leather jacket | 1       | 1      | 
 |                      | Leather jacket      | 0       | 1      |
 |                      | Trench Coat         | 1       | 1      |
